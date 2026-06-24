@@ -4,9 +4,6 @@ She Can Foundation Website
 
 > A single-page website built for **She Can Foundation**, an NGO registered under the Indian Society Registration Act of 1860, dedicated to uplifting and empowering underprivileged women across India.
 
-🌐 **Live Site:** 
-
----
 
 ## 📌 About the Project
 
